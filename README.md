@@ -20,9 +20,9 @@ Application de films pour rechercher, suivre et découvrir les meilleurs films. 
 - **API** : IMDb pour les données des films et acteurs.  
 - **Autres outils** : React DOM, React Router, Google Apps.  
 
----
 
-### **Screenshots de l'application 🖼️**  
+
+ **Screenshots de l'application 🖼️**  
 ![Black Vintage Fashion Collection Mobile Video (1)](https://github.com/user-attachments/assets/77192e72-0ced-4f83-b6e7-f3625ee174f1)
 ![Black Vintage Fashion Collection Mobile Video (2)](https://github.com/user-attachments/assets/b05f8d50-a654-4e61-b64d-c640a7297733)
 ![Black Vintage Fashion Collection Mobile Video (3)](https://github.com/user-attachments/assets/febc1a42-7622-4e68-a7b5-36566ca7dc30)
@@ -31,7 +31,7 @@ Application de films pour rechercher, suivre et découvrir les meilleurs films. 
 ![Black Vintage Fashion Collection Mobile Video (6)](https://github.com/user-attachments/assets/42e42d72-df56-4b45-8eb7-e9e4b41bb5a7)
 ![Black Vintage Fashion Collection Mobile Video](https://github.com/user-attachments/assets/9fa2f3fb-6c93-4faa-883b-fac2bb0b940c)
 
----
+
 
 ### **Installation 🚀**  
 
